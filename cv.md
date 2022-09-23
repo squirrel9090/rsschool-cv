@@ -21,12 +21,12 @@ ___
 * HTML
 ___
 ##Code Example
+
 ```
 SELECT DISTINCT Product.maker AS maker, Laptop.speed AS speed
 FROM Product
 INNER JOIN Laptop ON Laptop.model = Product.model
 WHERE hd >= 10 AND type='Laptop'
-
 ```
 ___
 ##Education
