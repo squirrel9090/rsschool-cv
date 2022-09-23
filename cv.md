@@ -16,7 +16,7 @@ ___
 
 * SQL
 * Postman
-* Charles 
+* CSS 
 * DevTools
 * HTML
 ___
